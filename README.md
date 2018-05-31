@@ -1,2 +1,2 @@
 ### spider
-python实现的简单蜘蛛
+python抓取百度百科词条
